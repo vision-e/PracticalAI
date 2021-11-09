@@ -7,6 +7,8 @@ Materiali ed esercizi per il corso practicalAi
 
 # Esercizio 2 
 
-- Pandas
+- Data Visualization
 
+# Esercizio 3
 
+- Data visualization with Distribution
